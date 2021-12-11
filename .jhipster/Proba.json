@@ -1,0 +1,14 @@
+{
+  "fields": [
+    {
+      "fieldName": "ime",
+      "fieldType": "String"
+    }
+  ],
+  "relationships": [],
+  "service": "no",
+  "readOnly": false,
+  "pagination": "no",
+  "name": "Proba",
+  "changelogDate": "20211211184658"
+}
